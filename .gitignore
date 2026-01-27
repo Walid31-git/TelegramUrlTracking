@@ -3,3 +3,5 @@ dist/
 *.exe
 *.log
 .env
+TelegramTrack.git/
+node_modules/
