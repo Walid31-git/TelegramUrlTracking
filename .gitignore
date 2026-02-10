@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 node_modules/
 dist/
 *.exe
@@ -8,17 +9,11 @@ TelegramTrack.git/
 node_modules/
 =======
 # Node modules
+=======
+>>>>>>> d8b95ea (Premier commit propre, suppression fichiers volumineux)
 node_modules/
-
-# Build / distribution folder
 dist/
-
-# Executables
 *.exe
-
-# Logs
 *.log
-
-# Environment files
 .env
 >>>>>>> 25328e1 (Ajout .gitignore et suppression des fichiers volumineux)
